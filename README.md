@@ -69,6 +69,12 @@ com.example.composeapp
 
 └── utils          # Constants and Helper classes
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d1d7416-7d4b-490f-8fa0-dd4233f5e8de" width="300" title="Product List">
+  <img src="https://github.com/user-attachments/assets/ec77ed66-1c53-4242-9246-5673d5fde241" width="300" title="Product Detail">
+</p>
+
 🚀 How to Run?
 
 1. Clone the repository.
