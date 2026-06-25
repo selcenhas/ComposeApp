@@ -43,8 +43,6 @@ Coroutines & Flow: Reactive programming and asynchronous task handling.
 
 📂 Project Structure
 
-Java
-
 com.example.composeapp
 
 ├── data
@@ -73,12 +71,9 @@ com.example.composeapp
 
 🚀 How to Run?
 
-1.
-Clone the repository.
+1. Clone the repository.
 
-2.
-Open with Android Studio.
+2. Open with Android Studio.
 
-3.
-Sync Gradle and run the app.
+3. Sync Gradle and run the app.
 
