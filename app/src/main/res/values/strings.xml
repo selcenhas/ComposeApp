@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ComposeApp</string>
+    <string name="products_title">Products</string>
+    <string name="product_details_title">Product Details</string>
+    <string name="back_button">Back</string>
+    <string name="loading_or_not_found">Loading or Product not found</string>
+    <string name="label_description">Description</string>
+    <string name="label_category">Category</string>
+    <string name="label_price">Price</string>
+    <string name="label_discount">Discount</string>
+    <string name="label_rating">Rating</string>
+    <string name="label_stock">Stock</string>
+    <string name="label_tags">Tags</string>
+    <string name="label_brand">Brand</string>
+    <string name="not_available">N/A</string>
+    <string name="price_format">Price: $%s</string>
+    <string name="category_format">Category: %s</string>
+</resources>
