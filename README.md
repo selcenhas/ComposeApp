@@ -66,8 +66,6 @@ com.example.composeapp
 🚀 How to Run?
 
 1. Clone the repository.
-2. 
-3. Open with Android Studio.
-4. 
-5. Sync Gradle and run the app.
+2. Open with Android Studio.
+3. Sync Gradle and run the app.
 
