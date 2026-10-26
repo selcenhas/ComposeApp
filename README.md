@@ -30,18 +30,31 @@ Tech Stack & Libraries
 📂 Project Structure
 
 com.example.composeapp
+
 ├── data
+
 │   ├── local      # Room DB, DAOs, TypeConverters
+
 │   ├── remote     # Retrofit ApiService & RetryInterceptor
+
 │   ├── models     # Data entities (DTOs & Entities)
+
 │   └── repository # Repository implementations
+
 ├── di             # Hilt Modules (Network & Database)
+
 ├── ui
+
 │   ├── products   # Product List Screen & ViewModel
+
 │   ├── detail     # Product Detail Screen & ViewModel
+
 │   ├── components # Reusable UI Components (TopAppBar etc.)
+
 │   └── theme      # Compose Theme definitions
+
 ├── utils          # Constants and Helper classes (RetryUtils etc.)
+
 └── worker         # WorkManager implementation (SyncProductsWorker, SyncWorkManager)
 
 
@@ -53,6 +66,8 @@ com.example.composeapp
 🚀 How to Run?
 
 1. Clone the repository.
-2. Open with Android Studio.
-3. Sync Gradle and run the app.
+2. 
+3. Open with Android Studio.
+4. 
+5. Sync Gradle and run the app.
 
